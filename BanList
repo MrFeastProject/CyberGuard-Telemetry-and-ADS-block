@@ -1,6 +1,6 @@
 #MrFeastProject ADS,Telemetry,Analytic System app
-#Data UPD:(17:50(MSK)-25.09.2026)
-#Version:1.0.00.1
+#Data UPD:(08:51(MSK)-28.09.2026)
+#Version:1.0.00.2
 /===MIUI/HyperOS===/
 com.mobiletools.systemhelper
 com.miui.cloudservice.sysbase
@@ -16,6 +16,15 @@ com.miui.analytics
 com.miui.personalassistant
 com.xiaomi.discover
 /===OneUI===/
+com.samsung.android.fmm
+com.samsung.android.easysetup
+com.google.android.gms.location.history
+com.samsung.android.forest
+com.samsung.android.bixby.wakeup
+com.samsung.android.app.sharelive
+com.samsung.android.smartsuggestions
+com.samsung.android.beaconmanager
+com.samsung.android.aremoji
 com.sec.android.easyMover.Agent
 com.sec.android.app.DataCreate
 com.samsung.android.mdx
